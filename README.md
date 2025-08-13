@@ -1,7 +1,6 @@
 # telecom-churn-analisis2
 
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tallonson69/telecom-churn-analisis2/blob/main/notebooks/desafio3.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tallonson69/telecom-churn-analisis2/blob/main/notebooks/analisis_churn.ipynb)
 
 ## Objetivo
 Desarrollar modelos predictivos para identificar clientes con alta probabilidad de cancelación (churn) en Telecom X, utilizando técnicas de machine learning.

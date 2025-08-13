@@ -1,4 +1,4 @@
-# Telecom Churn Prediction Analysis
+# Challenge Telecom X: análisis de evasión de clientes - Parte 2
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tallonson69/telecom-churn-analisis2/blob/main/analisis_churn.ipynb)
 
